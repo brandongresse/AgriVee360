@@ -398,5 +398,5 @@ firebase use agrivee360
 
 <p align="center">
   <img src="https://img.shields.io/badge/Proudly-South%20African-007A4D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/English%20%7C%20Afrikaans%20%7C%20Zulu-supported-1B5E20?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/English%20%7C%20Afrikaans-supported-1B5E20?style=for-the-badge" />
 </p>
