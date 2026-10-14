@@ -135,7 +135,7 @@ South Africa has **35,000+ commercial farmers** and hundreds of thousands of sma
 | Photo Gallery | ❌ | ✅ |
 | WhatsApp & Email Share | ❌ | ✅ |
 | Offline Mode | ✅ | ✅ |
-| Works in Afrikaans & Zulu | ✅ | ✅ |
+| Works in Afrikaans & English | ✅ | ✅ |
 | Dark Mode | ✅ | ✅ |
 
 ### 🏢 Enterprise Plan
@@ -350,7 +350,6 @@ Founder & Lead Developer — AgriVee 360
 |---|---|
 | 📧 Email | agrivee360app@gmail.com |
 | 🌍 Location | South Africa |
-| 💼 LinkedIn | Coming Soon |
 | 🌐 Website | agrivee360.co.za (Coming Soon) |
 
 **Open to:**
